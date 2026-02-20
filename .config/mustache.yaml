@@ -1,0 +1,11 @@
+{
+  project:
+    {
+      creation-date: "2026-02-20",
+      description: "This is the base library, but with everything that involves recursion stripped out.",
+      name: "flat-base",
+      repo: "sellout/flat-base",
+      summary: "base without recursion",
+    },
+  type: { name: "haskell" },
+}
